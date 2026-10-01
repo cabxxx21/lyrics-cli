@@ -1,4 +1,3 @@
-```python
 #!/usr/bin/env python3
 """
 Spotify Synced Lyrics Viewer
@@ -281,4 +280,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
