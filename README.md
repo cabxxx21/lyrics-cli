@@ -17,5 +17,5 @@ Uses:
 ## Usage
 
 ```bash
-python lyrics.py
+python lirik.py
 ```
